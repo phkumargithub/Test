@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootEmployeeApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: vakaphani
+Implementation-Vendor-Id: com.springbootcouchbase
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootEm
+ ployeeApp/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
